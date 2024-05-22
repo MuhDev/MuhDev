@@ -18,7 +18,7 @@ I'm a  Mobile Application Developer at [Your Company]. I love coding and contrib
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:muh.ata.dev@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammed-al-attas-09416a234/">
