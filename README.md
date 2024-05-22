@@ -25,6 +25,6 @@ I'm a  Mobile Application Developer at [Your Company]. I love coding and contrib
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://x.com/dev_muh?t=E0EPARJkRHFTHeppwwnDAw&s=08">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
