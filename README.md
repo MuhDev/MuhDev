@@ -16,7 +16,15 @@ I'm a  Mobile Application Developer at [Your Company]. I love coding and contrib
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MuhDev&theme=radical)
 
 ## 📫 How to reach me
-- <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="20" height="20"/></a> [Email](mailto:your-email@example.com)
-- <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/></a> [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="20" height="20"/></a> [Twitter](https://twitter.com/your-profile)
 
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/your-profile">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
