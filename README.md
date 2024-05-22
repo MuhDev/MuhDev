@@ -10,9 +10,6 @@ I'm a  Mobile Application Developer at [Your Company]. I love coding and contrib
 - **Frameworks**: React, Node.js, Django, Flask
 - **Tools**: Git, Docker, Kubernetes
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhDev&show_icons=true&theme=radical)
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhDev&theme=radical)
 
